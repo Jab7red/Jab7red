@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jab7red&label=Profile%20views&color=0e75b6&style=flat" alt="jab7red" /> </p>
 
-- 🔭 I’m currently working on [TastyGram](coming soon)
+- 🔭 I’m currently working on [Fish Buddy](coming soon)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Python/Django**
 
 - 👯 I’m looking to collaborate **with other developers**
 
