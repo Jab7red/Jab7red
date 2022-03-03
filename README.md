@@ -5,21 +5,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jab7red&label=Profile%20views&color=0e75b6&style=flat" alt="jab7red" /> </p>
 
-- 🔭 I’m currently working on [Fish Buddy](coming soon)
+- 🔭 I’m currently working on [Masters Bass Club Website]
 
-- 🌱 I’m currently learning **Python/Django**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate **with other developers**
 
-- 🤝 I’m looking for help with **CSS :(**
+- 🤝 I’m looking for help with **The good ol job search!**
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+- 👨‍💻 All of my projects are available at [Jared The Dev](https://jaredthedev.netlify.app)
 
 - 💬 Ask me about **anything coding or outdoors**
 
 - 📫 How to reach me **jaredbradley95@gmail.com**
 
-- 📄 Know about my experiences [coming soon](coming soon)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1gL70jcUHfnWbKHugx0POu3Qrat8exllEULo7VIjxBUw/export?format=pdf)
 
 - ⚡ Fun fact **I love to hunt and fish!**
 
